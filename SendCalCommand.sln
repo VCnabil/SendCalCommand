@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendCalCommand", "SendCalCommand\SendCalCommand.csproj", "{4160DDB3-9230-49CF-B19E-786479EECFBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4160DDB3-9230-49CF-B19E-786479EECFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4160DDB3-9230-49CF-B19E-786479EECFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4160DDB3-9230-49CF-B19E-786479EECFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4160DDB3-9230-49CF-B19E-786479EECFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B9D014-D606-47FC-8FBF-951D3A3DB3E8}
+	EndGlobalSection
+EndGlobal
